@@ -1,6 +1,6 @@
 {
-    "name": "larakit/f-font-open-sans",
-    "description": "[Larakit] [staticfiles] f-font-open-sans",
+    "name": "larakit/sf-font-open-sans",
+    "description": "[Larakit] [staticfiles] sf-font-open-sans",
     "license": "MIT",
     "require": {
         "larakit/lk-staticfiles": "*"
